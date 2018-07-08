@@ -1,0 +1,11 @@
+C:\Users\Percy\Documents\GitHub\hello-world\C-Sharp\helloapp\bin\Debug\netcoreapp2.1\helloapp.deps.json
+C:\Users\Percy\Documents\GitHub\hello-world\C-Sharp\helloapp\bin\Debug\netcoreapp2.1\helloapp.runtimeconfig.json
+C:\Users\Percy\Documents\GitHub\hello-world\C-Sharp\helloapp\bin\Debug\netcoreapp2.1\helloapp.runtimeconfig.dev.json
+C:\Users\Percy\Documents\GitHub\hello-world\C-Sharp\helloapp\bin\Debug\netcoreapp2.1\helloapp.dll
+C:\Users\Percy\Documents\GitHub\hello-world\C-Sharp\helloapp\bin\Debug\netcoreapp2.1\helloapp.pdb
+C:\Users\Percy\Documents\GitHub\hello-world\C-Sharp\helloapp\obj\Debug\netcoreapp2.1\helloapp.csprojAssemblyReference.cache
+C:\Users\Percy\Documents\GitHub\hello-world\C-Sharp\helloapp\obj\Debug\netcoreapp2.1\helloapp.csproj.CoreCompileInputs.cache
+C:\Users\Percy\Documents\GitHub\hello-world\C-Sharp\helloapp\obj\Debug\netcoreapp2.1\helloapp.AssemblyInfoInputs.cache
+C:\Users\Percy\Documents\GitHub\hello-world\C-Sharp\helloapp\obj\Debug\netcoreapp2.1\helloapp.AssemblyInfo.cs
+C:\Users\Percy\Documents\GitHub\hello-world\C-Sharp\helloapp\obj\Debug\netcoreapp2.1\helloapp.dll
+C:\Users\Percy\Documents\GitHub\hello-world\C-Sharp\helloapp\obj\Debug\netcoreapp2.1\helloapp.pdb
