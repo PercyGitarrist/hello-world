@@ -1,7 +1,6 @@
 ﻿using System;
 
-namespace helloapp
-{
+namespace helloapp {
 	class Rectangle {
 		//member variables
 		private double length;
